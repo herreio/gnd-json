@@ -1,4 +1,4 @@
-# Zugänge zur Gemeinsamen Normdatei im JSON-Format
+# Zugänge zur GND im JSON-Format
 
 ## Testdaten: Johann Justinus Gebauer
 
