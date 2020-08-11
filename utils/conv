@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# convert MARC21-XML to MARC-in-JSON
+yaz-marcdump -i marcxml -o json data/116473207_marcxml.mrcx > data/116473207_conv-yaz-marcdump.json
+# convert MARC21-XML to MarcXchange formatted ld-JSON (via binary MARC)
+source env/bin/activate
+yaz-marcdump -i marcxml -o marc data/116473207_marcxml.mrcx | pymarc2jsonl > data/116473207_conv-pymarc2jsonl.json
+dojson -i data/116473207_marcxml.mrcx -l marcxml do marc21 > data/116473207_conv-dojson.json

@@ -1,0 +1,14 @@
+_/
+dev/
+dev-*/
+*-dev/
+public/
+env/
+__pycache__
+dev-*.*
+*-dev.*
+dev.*
+*.py[cod]
+*$py.class
+*.swp
+*.log

@@ -1,0 +1,17 @@
+certifi==2020.4.5.2
+chardet==3.0.4
+click==7.1.2
+dojson==1.4.0
+elasticsearch==7.8.0
+-e git+https://github.com/slub/es2json.git@268842d31dd8a4188035144bbcd56a000b5e14c2#egg=es2json
+httplib2==0.18.1
+idna==2.9
+librair==2020.6.9
+lxml==4.5.1
+pymarc==4.0.0
+-e git+https://github.com/slub/pymarc2jsonl.git@202ade4ebb8b32d98c952336be39dbd0044af9ec#egg=pymarc2jsonl
+requests==2.23.0
+simplejson==3.17.0
+six==1.15.0
+tqdm==4.46.1
+urllib3==1.25.9

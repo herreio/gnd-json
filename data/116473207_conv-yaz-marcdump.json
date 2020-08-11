@@ -1,0 +1,1093 @@
+{
+	"leader":"00000nz  a2200000nc 4500",
+	"fields":
+	[
+		{
+			"001":"116473207"
+		},
+		{
+			"003":"DE-101"
+		},
+		{
+			"005":"20181220145201.0"
+		},
+		{
+			"008":"960208n||azznnaabn           | aaa    |c"
+		},
+		{
+			"024":
+			{
+				"subfields":
+				[
+					{
+						"a":"116473207"
+					},
+					{
+						"0":"http://d-nb.info/gnd/116473207"
+					},
+					{
+						"2":"gnd"
+					}
+				],
+				"ind1":"7",
+				"ind2":" "
+			}
+
+		},
+		{
+			"035":
+			{
+				"subfields":
+				[
+					{
+						"a":"(DE-101)116473207"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"035":
+			{
+				"subfields":
+				[
+					{
+						"a":"(DE-588)116473207"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"035":
+			{
+				"subfields":
+				[
+					{
+						"z":"(DE-588a)116473207"
+					},
+					{
+						"9":"v:zg"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"035":
+			{
+				"subfields":
+				[
+					{
+						"z":"(DE-588c)4510747-6"
+					},
+					{
+						"9":"v:zg"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"040":
+			{
+				"subfields":
+				[
+					{
+						"a":"DE-611"
+					},
+					{
+						"c":"DE-611"
+					},
+					{
+						"9":"r:DE-611"
+					},
+					{
+						"b":"ger"
+					},
+					{
+						"d":"1601"
+					},
+					{
+						"e":"rda"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"042":
+			{
+				"subfields":
+				[
+					{
+						"a":"gnd1"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"043":
+			{
+				"subfields":
+				[
+					{
+						"c":"XA-DE"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"065":
+			{
+				"subfields":
+				[
+					{
+						"a":"2.2p"
+					},
+					{
+						"2":"sswd"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"065":
+			{
+				"subfields":
+				[
+					{
+						"a":"2.3p"
+					},
+					{
+						"2":"sswd"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"075":
+			{
+				"subfields":
+				[
+					{
+						"b":"p"
+					},
+					{
+						"2":"gndgen"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"075":
+			{
+				"subfields":
+				[
+					{
+						"b":"piz"
+					},
+					{
+						"2":"gndspec"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"079":
+			{
+				"subfields":
+				[
+					{
+						"a":"g"
+					},
+					{
+						"q":"z"
+					},
+					{
+						"q":"s"
+					},
+					{
+						"q":"d"
+					},
+					{
+						"q":"a"
+					},
+					{
+						"q":"f"
+					},
+					{
+						"u":"w"
+					},
+					{
+						"u":"k"
+					},
+					{
+						"u":"r"
+					},
+					{
+						"u":"o"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"100":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauer, Johann Justinus"
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"375":
+			{
+				"subfields":
+				[
+					{
+						"a":"1"
+					},
+					{
+						"2":"iso5218"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauer, Joannes Justinus"
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauerus, Joannes Justinus"
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauerus, Joannes Iustinus"
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauer, Johann Justin"
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauer, Joh. Justinus"
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauer, Joh. Just."
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauer, Jean Justin"
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Geb., Jean Justin"
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauer, Jan Justin"
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauerus, Io. Iustinus"
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauerus, I. Iust."
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauer, Ioan. Iustin."
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauer, J. J."
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"400":
+			{
+				"subfields":
+				[
+					{
+						"a":"Gebauer, Gian-Giustino"
+					},
+					{
+						"d":"1710-1772"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"500":
+			{
+				"subfields":
+				[
+					{
+						"0":"(DE-101)1045265640"
+					},
+					{
+						"0":"(DE-588)1045265640"
+					},
+					{
+						"0":"https://d-nb.info/gnd/1045265640"
+					},
+					{
+						"a":"Gebauer, Marie Sophie"
+					},
+					{
+						"4":"bezf"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#familialRelationship"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Beziehung familiaer"
+					},
+					{
+						"e":"Beziehung familiaer"
+					},
+					{
+						"9":"v:Ehefrau"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"500":
+			{
+				"subfields":
+				[
+					{
+						"0":"(DE-101)116473169"
+					},
+					{
+						"0":"(DE-588)116473169"
+					},
+					{
+						"0":"https://d-nb.info/gnd/116473169"
+					},
+					{
+						"a":"Gebauer, Johann Jakob"
+					},
+					{
+						"d":"1745-1818"
+					},
+					{
+						"4":"bezf"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#familialRelationship"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Beziehung familiaer"
+					},
+					{
+						"e":"Beziehung familiaer"
+					},
+					{
+						"9":"v:Sohn"
+					}
+				],
+				"ind1":"1",
+				"ind2":" "
+			}
+
+		},
+		{
+			"510":
+			{
+				"subfields":
+				[
+					{
+						"0":"(DE-101)117393894X"
+					},
+					{
+						"0":"(DE-588)117393894X"
+					},
+					{
+						"0":"https://d-nb.info/gnd/117393894X"
+					},
+					{
+						"a":"Gebauer- und Stettinsche Buchhandlung"
+					},
+					{
+						"4":"affi"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#affiliation"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Affiliation"
+					},
+					{
+						"e":"Affiliation"
+					},
+					{
+						"9":"Z:1761-1762"
+					}
+				],
+				"ind1":"2",
+				"ind2":" "
+			}
+
+		},
+		{
+			"510":
+			{
+				"subfields":
+				[
+					{
+						"0":"(DE-101)104526539X"
+					},
+					{
+						"0":"(DE-588)104526539X"
+					},
+					{
+						"0":"https://d-nb.info/gnd/104526539X"
+					},
+					{
+						"a":"Officina Gebaueriana"
+					},
+					{
+						"4":"affi"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#affiliation"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Affiliation"
+					},
+					{
+						"e":"Affiliation"
+					}
+				],
+				"ind1":"2",
+				"ind2":" "
+			}
+
+		},
+		{
+			"510":
+			{
+				"subfields":
+				[
+					{
+						"0":"(DE-101)1004499078"
+					},
+					{
+						"0":"(DE-588)6146495-8"
+					},
+					{
+						"0":"https://d-nb.info/gnd/6146495-8"
+					},
+					{
+						"a":"Johann Justinus Gebauer Erben"
+					},
+					{
+						"4":"affi"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#affiliation"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Affiliation"
+					},
+					{
+						"e":"Affiliation"
+					},
+					{
+						"9":"v:weiterführender Betrieb"
+					}
+				],
+				"ind1":"2",
+				"ind2":" "
+			}
+
+		},
+		{
+			"548":
+			{
+				"subfields":
+				[
+					{
+						"a":"1710-1772"
+					},
+					{
+						"4":"datl"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#dateOfBirthAndDeath"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Lebensdaten"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"548":
+			{
+				"subfields":
+				[
+					{
+						"a":"19.05.1710-26.01.1772"
+					},
+					{
+						"4":"datx"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#dateOfBirthAndDeath"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Exakte Lebensdaten"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"550":
+			{
+				"subfields":
+				[
+					{
+						"0":"(DE-101)041468015"
+					},
+					{
+						"0":"(DE-588)4146801-6"
+					},
+					{
+						"0":"https://d-nb.info/gnd/4146801-6"
+					},
+					{
+						"a":"Buchdrucker"
+					},
+					{
+						"4":"berc"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#professionOrOccupation"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Charakteristischer Beruf"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"550":
+			{
+				"subfields":
+				[
+					{
+						"0":"(DE-101)040130916"
+					},
+					{
+						"0":"(DE-588)4013091-5"
+					},
+					{
+						"0":"https://d-nb.info/gnd/4013091-5"
+					},
+					{
+						"a":"Drucker"
+					},
+					{
+						"4":"beru"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#professionOrOccupation"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Beruf"
+					},
+					{
+						"9":"Z:1733-1772"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"550":
+			{
+				"subfields":
+				[
+					{
+						"0":"(DE-101)041383435"
+					},
+					{
+						"0":"(DE-588)4138343-6"
+					},
+					{
+						"0":"https://d-nb.info/gnd/4138343-6"
+					},
+					{
+						"a":"Verleger"
+					},
+					{
+						"4":"beru"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#professionOrOccupation"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Beruf"
+					},
+					{
+						"9":"Z:1733-1772"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"551":
+			{
+				"subfields":
+				[
+					{
+						"0":"(DE-101)040644944"
+					},
+					{
+						"0":"(DE-588)4064494-7"
+					},
+					{
+						"0":"https://d-nb.info/gnd/4064494-7"
+					},
+					{
+						"a":"Waltershausen"
+					},
+					{
+						"4":"ortg"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#placeOfBirth"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Geburtsort"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"551":
+			{
+				"subfields":
+				[
+					{
+						"0":"(DE-101)040230252"
+					},
+					{
+						"0":"(DE-588)4023025-9"
+					},
+					{
+						"0":"https://d-nb.info/gnd/4023025-9"
+					},
+					{
+						"a":"Halle (Saale)"
+					},
+					{
+						"4":"ortw"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#placeOfActivity"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Wirkungsort"
+					},
+					{
+						"9":"Z:1733-1772"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"551":
+			{
+				"subfields":
+				[
+					{
+						"0":"(DE-101)040230252"
+					},
+					{
+						"0":"(DE-588)4023025-9"
+					},
+					{
+						"0":"https://d-nb.info/gnd/4023025-9"
+					},
+					{
+						"a":"Halle (Saale)"
+					},
+					{
+						"4":"orts"
+					},
+					{
+						"4":"https://d-nb.info/standards/elementset/gnd#placeOfDeath"
+					},
+					{
+						"w":"r"
+					},
+					{
+						"i":"Sterbeort"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"667":
+			{
+				"subfields":
+				[
+					{
+						"a":"DBSM"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"667":
+			{
+				"subfields":
+				[
+					{
+						"a":"VD-18"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"670":
+			{
+				"subfields":
+				[
+					{
+						"a":"Paisey (1988) S. 74"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"670":
+			{
+				"subfields":
+				[
+					{
+						"a":"ADB"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		},
+		{
+			"913":
+			{
+				"subfields":
+				[
+					{
+						"S":"pnd"
+					},
+					{
+						"i":"a"
+					},
+					{
+						"a":"Gebauer, Johann Justinus"
+					},
+					{
+						"0":"(DE-588a)116473207"
+					}
+				],
+				"ind1":" ",
+				"ind2":" "
+			}
+
+		}
+	]
+}

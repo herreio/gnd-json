@@ -1,0 +1,273 @@
+[ {
+  "@id" : "_:node1ecbgthipx986814",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Joannes Justinus"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauer"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986815",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Joannes Justinus"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauerus"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986816",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Joannes Iustinus"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauerus"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986817",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Johann Justin"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauer"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986818",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Joh. Justinus"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauer"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986819",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Joh. Just."
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauer"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986820",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Jean Justin"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauer"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986821",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Jean Justin"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Geb."
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986822",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Jan Justin"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauer"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986823",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Io. Iustinus"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauerus"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986824",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "I. Iust."
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauerus"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986825",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Ioan. Iustin."
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauer"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986826",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "J. J."
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauer"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986827",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Gian-Giustino"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauer"
+  } ]
+}, {
+  "@id" : "_:node1ecbgthipx986828",
+  "https://d-nb.info/standards/elementset/gnd#forename" : [ {
+    "@value" : "Johann Justinus"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#surname" : [ {
+    "@value" : "Gebauer"
+  } ]
+}, {
+  "@id" : "https://d-nb.info/gnd/116473207",
+  "@type" : [ "https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson" ],
+  "http://www.w3.org/2002/07/owl#sameAs" : [ {
+    "@id" : "http://viaf.org/viaf/32049320"
+  }, {
+    "@id" : "http://isni.org/isni/0000000081110519"
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q1695051"
+  }, {
+    "@id" : "http://id.loc.gov/rwo/agents/no00015966"
+  } ],
+  "http://www.w3.org/2007/05/powder-s#describedby" : [ {
+    "@id" : "https://d-nb.info/gnd/116473207/about"
+  } ],
+  "http://xmlns.com/foaf/0.1/page" : [ {
+    "@id" : "https://de.wikipedia.org/wiki/Johann_Justinus_Gebauer"
+  } ],
+  "https://d-nb.info/standards/elementset/agrelon#hasChild" : [ {
+    "@id" : "https://d-nb.info/gnd/116473169"
+  } ],
+  "https://d-nb.info/standards/elementset/agrelon#hasSpouse" : [ {
+    "@id" : "https://d-nb.info/gnd/1045265640"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#affiliation" : [ {
+    "@id" : "https://d-nb.info/gnd/117393894X"
+  }, {
+    "@id" : "https://d-nb.info/gnd/104526539X"
+  }, {
+    "@id" : "https://d-nb.info/gnd/6146495-8"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#dateOfBirth" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#date",
+    "@value" : "1710-05-19"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#dateOfDeath" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#date",
+    "@value" : "1772-01-26"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#familialRelationship" : [ {
+    "@id" : "https://d-nb.info/gnd/1045265640"
+  }, {
+    "@id" : "https://d-nb.info/gnd/116473169"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#gender" : [ {
+    "@id" : "https://d-nb.info/standards/vocab/gnd/gender#male"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#geographicAreaCode" : [ {
+    "@id" : "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#gndIdentifier" : [ {
+    "@value" : "116473207"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#gndSubjectCategory" : [ {
+    "@id" : "https://d-nb.info/standards/vocab/gnd/gnd-sc#2.2p"
+  }, {
+    "@id" : "https://d-nb.info/standards/vocab/gnd/gnd-sc#2.3p"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#oldAuthorityNumber" : [ {
+    "@value" : "(DE-588a)116473207"
+  }, {
+    "@value" : "(DE-588c)4510747-6"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#placeOfActivity" : [ {
+    "@id" : "https://d-nb.info/gnd/4023025-9"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#placeOfBirth" : [ {
+    "@id" : "https://d-nb.info/gnd/4064494-7"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#placeOfDeath" : [ {
+    "@id" : "https://d-nb.info/gnd/4023025-9"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#preferredNameEntityForThePerson" : [ {
+    "@id" : "_:node1ecbgthipx986828"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#preferredNameForThePerson" : [ {
+    "@value" : "Gebauer, Johann Justinus"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#professionOrOccupation" : [ {
+    "@id" : "https://d-nb.info/gnd/4146801-6"
+  }, {
+    "@id" : "https://d-nb.info/gnd/4013091-5"
+  }, {
+    "@id" : "https://d-nb.info/gnd/4138343-6"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#variantNameEntityForThePerson" : [ {
+    "@id" : "_:node1ecbgthipx986814"
+  }, {
+    "@id" : "_:node1ecbgthipx986815"
+  }, {
+    "@id" : "_:node1ecbgthipx986816"
+  }, {
+    "@id" : "_:node1ecbgthipx986817"
+  }, {
+    "@id" : "_:node1ecbgthipx986818"
+  }, {
+    "@id" : "_:node1ecbgthipx986819"
+  }, {
+    "@id" : "_:node1ecbgthipx986820"
+  }, {
+    "@id" : "_:node1ecbgthipx986821"
+  }, {
+    "@id" : "_:node1ecbgthipx986822"
+  }, {
+    "@id" : "_:node1ecbgthipx986823"
+  }, {
+    "@id" : "_:node1ecbgthipx986824"
+  }, {
+    "@id" : "_:node1ecbgthipx986825"
+  }, {
+    "@id" : "_:node1ecbgthipx986826"
+  }, {
+    "@id" : "_:node1ecbgthipx986827"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#variantNameForThePerson" : [ {
+    "@value" : "Gebauer, Joannes Justinus"
+  }, {
+    "@value" : "Gebauerus, Joannes Justinus"
+  }, {
+    "@value" : "Gebauerus, Joannes Iustinus"
+  }, {
+    "@value" : "Gebauer, Johann Justin"
+  }, {
+    "@value" : "Gebauer, Joh. Justinus"
+  }, {
+    "@value" : "Gebauer, Joh. Just."
+  }, {
+    "@value" : "Gebauer, Jean Justin"
+  }, {
+    "@value" : "Geb., Jean Justin"
+  }, {
+    "@value" : "Gebauer, Jan Justin"
+  }, {
+    "@value" : "Gebauerus, Io. Iustinus"
+  }, {
+    "@value" : "Gebauerus, I. Iust."
+  }, {
+    "@value" : "Gebauer, Ioan. Iustin."
+  }, {
+    "@value" : "Gebauer, J. J."
+  }, {
+    "@value" : "Gebauer, Gian-Giustino"
+  } ]
+}, {
+  "@id" : "https://d-nb.info/gnd/116473207/about",
+  "http://purl.org/dc/terms/license" : [ {
+    "@id" : "http://creativecommons.org/publicdomain/zero/1.0/"
+  } ],
+  "http://purl.org/dc/terms/modified" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+    "@value" : "2018-12-20T14:52:01.000"
+  } ]
+} ]
