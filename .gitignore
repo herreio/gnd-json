@@ -12,3 +12,4 @@ dev.*
 *$py.class
 *.swp
 *.log
+secret
