@@ -24,6 +24,8 @@ Für die Einrichtung der Python-Umgebung kann die Routine [`utils/setup`](./util
 utils/setup
 ```
 
+Voraussetzung ist eine installierte aktuelle Version von [`virtualenv`](https://pypi.org/project/virtualenv/).
+
 ## Zugangsschlüssel: SRU-Schnittstelle der GND
 
 Für die Autorisierung des Zugriffs auf die von der Deutschen Nationalbibliothek bereitgestellte SRU-Schnittstelle der GND wird ein `accessToken` benötigt. Die entsprechende Routine zur Bereitstellung erwartet diesen in der Umgebungsvariable `DNB_TOKEN`.
