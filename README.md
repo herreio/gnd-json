@@ -16,11 +16,19 @@
         - [MARCJSON](http://unapi.gbv.de/?id=ognd:ppn:134663063&format=marcjson)
         - [PICAJSON](http://unapi.gbv.de/?id=ognd:ppn:134663063&format=picajson)
 
-## Zugangsschlüssel
+## Initialisierung: Python-Bibliotheken
 
-Für den Zugriff auf die von der _Deutschen Nationalbibliothek_ bereitgestellte SRU-Schnittstelle der _Gemeinsamen Normdatei_ wird ein `accessToken` benötigt. Die entsprechende Routine zur Bereitstellung erwartet diesen in der Umgebungsvariable `DNB_TOKEN`.
+Für die Einrichtung der Python-Umgebung kann die Routine [`utils/setup`] verwendet werden:
 
-Im hiesigen Fall wurde ein in der Git-Umgebung ignoriertes, `secret` betiteltes Skript mit folgendem Inhalt erstellt:
+```sh
+utils/setup
+```
+
+## Zugangsschlüssel: SRU-Schnittstelle der GND
+
+Für den autorisierten Zugriff auf die von der Deutschen Nationalbibliothek bereitgestellte SRU-Schnittstelle der GND wird ein `accessToken` benötigt. Die entsprechende Routine zur Bereitstellung erwartet diesen in der Umgebungsvariable `DNB_TOKEN`.
+
+Im hiesigen Fall wurde ein in der Git-Umgebung ignoriertes, `secret` betiteltes Skript mit folgendem Inhalt im Arbeitsverzeichnis erstellt:
 
 ```sh
 export DNB_TOKEN='YOUR_ACCESS_TOKEN'
@@ -32,9 +40,17 @@ export DNB_TOKEN='YOUR_ACCESS_TOKEN'
 source secret
 ```
 
-## Verwendete Kommandozeilenprogramme
+## Ausführung: SRU-Bereitstellung und Konvertierung nach JSON
+
+Für die Bereitstellung via SRU und Formatkonvertierung von XML nach JSON lässt sich die Routine [`utils/conv`] verwenden:
+
+```sh
+utils/conv
+```
+
+## Software: Verwendete Kommandozeilenprogramme
 
 - [dojson](https://github.com/inveniosoftware/dojson)
-- [catmandu](https://librecat.org/Catmandu/)
+- [catmandu](https://librecat.org/Catmandu/) ([SRU](https://metacpan.org/release/Catmandu-SRU), [MARC](https://metacpan.org/release/Catmandu-MARC))
 - [pymarc2jsonl](https://github.com/slub/pymarc2jsonl)
 - [yaz-marcdump](https://software.indexdata.com/yaz/doc/yaz-marcdump.html)
