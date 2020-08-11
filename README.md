@@ -1,6 +1,6 @@
 # Zugänge zur GND im JSON-Format
 
-## Testdaten: Johann Justinus Gebauer
+## Testdaten: [Johann Justinus Gebauer](https://de.wikipedia.org/wiki/Johann_Justinus_Gebauer)
 
 - GND-Nummer: 116473207
     - [d-nb.info/gnd](http://d-nb.info/gnd/116473207)
