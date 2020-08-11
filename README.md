@@ -42,7 +42,7 @@ source secret
 
 ## Ausführung: SRU-Bereitstellung und Konvertierung nach JSON
 
-Für die Bereitstellung via SRU und Formatkonvertierung von XML nach JSON lässt sich die Routine [`utils/conv`] verwenden:
+Für die Bereitstellung via SRU und Formatkonvertierung von XML nach JSON lässt sich die Routine [`utils/conv`](./utils/conv) verwenden:
 
 ```sh
 utils/conv
