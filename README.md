@@ -8,9 +8,9 @@
     - [lobid.org/gnd](http://lobid.org/gnd/116473207)
         - [JSON-LD](http://lobid.org/gnd/116473207.json)
     - [portal.dnb.de/metadataShop](https://portal.dnb.de/metadataShop.htm)
-        - [JSON-LD](./data/116473207_datenshop.json) (DNB-Konto benötigt!)
+        - [JSON-LD](./data/116473207_datenshop.json) (DNB-Login benötigt!)
     - [services.dnb.de/sru/authorities](http://services.dnb.de/sru/authorities)
-        - [MARC21-XML](http://services.dnb.de/sru/authorities?version=1.1&operation=searchRetrieve&query=dnb.nid=116473207&recordSchema=MARC21-xml&maximumRecords=1&accessToken=YOUR_ACCESS_TOKEN) (DNB-Konto und `accessToken` benötigt!)
+        - [MARC21-XML](http://services.dnb.de/sru/authorities?version=1.1&operation=searchRetrieve&query=dnb.nid=116473207&recordSchema=MARC21-xml&maximumRecords=1&accessToken=YOUR_ACCESS_TOKEN) (DNB-Login und `accessToken` benötigt!)
 - OGND-PPN: 134663063
     - [PICA-Datenbank](https://swb.bsz-bw.de/DB=2.104/PPNSET?PPN=134663063&INDEXSET=21)
         - [MARCJSON](http://unapi.gbv.de/?id=ognd:ppn:134663063&format=marcjson)
@@ -18,7 +18,7 @@
 
 ## Initialisierung: Python-Bibliotheken
 
-Für die Einrichtung der Python-Umgebung kann die Routine [`utils/setup`] verwendet werden:
+Für die Einrichtung der Python-Umgebung kann die Routine [`utils/setup`](./utils/setup) verwendet werden:
 
 ```sh
 utils/setup
