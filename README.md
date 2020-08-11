@@ -16,13 +16,6 @@
         - [MARCJSON](http://unapi.gbv.de/?id=ognd:ppn:134663063&format=marcjson)
         - [PICAJSON](http://unapi.gbv.de/?id=ognd:ppn:134663063&format=picajson)
 
-## Verwendete Kommandozeilenprogramme
-
-- [dojson](https://github.com/inveniosoftware/dojson)
-- [catmandu](https://librecat.org/Catmandu/)
-- [pymarc2jsonl](https://github.com/slub/pymarc2jsonl)
-- [yaz-marcdump](https://software.indexdata.com/yaz/doc/yaz-marcdump.html)
-
 ## Zugangsschlüssel
 
 Für den Zugriff auf die von der _Deutschen Nationalbibliothek_ bereitgestellte SRU-Schnittstelle der _Gemeinsamen Normdatei_ wird ein `accessToken` benötigt. Die entsprechende Routine zur Bereitstellung erwartet diesen in der Umgebungsvariable `DNB_TOKEN`.
@@ -38,3 +31,10 @@ export DNB_TOKEN='YOUR_ACCESS_TOKEN'
 ```sh
 source secret
 ```
+
+## Verwendete Kommandozeilenprogramme
+
+- [dojson](https://github.com/inveniosoftware/dojson)
+- [catmandu](https://librecat.org/Catmandu/)
+- [pymarc2jsonl](https://github.com/slub/pymarc2jsonl)
+- [yaz-marcdump](https://software.indexdata.com/yaz/doc/yaz-marcdump.html)
