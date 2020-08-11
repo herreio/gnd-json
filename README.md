@@ -26,7 +26,7 @@ utils/setup
 
 ## Zugangsschlüssel: SRU-Schnittstelle der GND
 
-Für den autorisierten Zugriff auf die von der Deutschen Nationalbibliothek bereitgestellte SRU-Schnittstelle der GND wird ein `accessToken` benötigt. Die entsprechende Routine zur Bereitstellung erwartet diesen in der Umgebungsvariable `DNB_TOKEN`.
+Für die Autorisierung des Zugriffs auf die von der Deutschen Nationalbibliothek bereitgestellte SRU-Schnittstelle der GND wird ein `accessToken` benötigt. Die entsprechende Routine zur Bereitstellung erwartet diesen in der Umgebungsvariable `DNB_TOKEN`.
 
 Im hiesigen Fall wurde ein in der Git-Umgebung ignoriertes, `secret` betiteltes Skript mit folgendem Inhalt im Arbeitsverzeichnis erstellt:
 
