@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # convert MARC21-XML to MARC-in-JSON
-yaz-marcdump -i marcxml -o json data/116473207_marcxml.mrcx > data/116473207_conv-yaz-marcdump.json
+yaz-marcdump -i marcxml -o json data/116473207_marcxml.mrcx > data/116473207-conv_yaz-marcdump.json
 # convert MARC21-XML to MarcXchange formatted ld-JSON (via binary MARC)
 source env/bin/activate
-yaz-marcdump -i marcxml -o marc data/116473207_marcxml.mrcx | pymarc2jsonl > data/116473207_conv-pymarc2jsonl.json
-dojson -i data/116473207_marcxml.mrcx -l marcxml do marc21 > data/116473207_conv-dojson.json
+yaz-marcdump -i marcxml -o marc data/116473207_marcxml.mrcx | pymarc2jsonl > data/116473207-conv_pymarc2jsonl.json
+dojson -i data/116473207_marcxml.mrcx -l marcxml do marc21 > data/116473207-conv_dojson.json
+catmandu convert SRU --base "https://services.dnb.de/sru/accessToken~${DNB_TOKEN}/authorities" --version 1.1 --recordSchema MARC21-xml --parser marcxml --query dnb.nid=116473207 to JSON --pretty 1 > data/116473207_authorities.json
